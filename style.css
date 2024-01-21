@@ -153,6 +153,7 @@ ul {
 
 
 .main-content {
+    overflow: auto;
     background-color: #e2e8f0;
     grid-column: 2/7;
     grid-row: 2/7;
